@@ -1,0 +1,47 @@
+_repo: A-Jar-of-Honey-from-Mount-Hybla_42644
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Doyle, Richard
+    aliases:
+    - Kitcat, Dick
+    - Doyle, R. (Richard)
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+covers:
+- cover_type: archival
+  image_path: 42644-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hunt, Leigh
+    alias: Hunt, James Henry Leigh
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '3612'
+    url: http://www.gutenberg.org/2009/agents/3612
+    wikipedia: http://en.wikipedia.org/wiki/James_Henry_Leigh_Hunt
+description: ''
+gutenberg_issued: '2013-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral poetry'
+- !lcsh 'Theocritus'
+- !lcsh 'Sicily (Italy)'
+- !lcc 'PR'
+tableOfContents: 'Christmas and Italy: or, a prefatory essay, showing the extreme
+  fitness of this book for the season -- Introductory -- Sicily, and its mythology
+  -- Glances at ancient Sicilian history and biography -- Theocritus -- Norman times;
+  legend of King Robert -- Italian and English pastoral -- Scotch pastoral -- Return
+  to Sicily and Mount Ætna -- Bees -- Miscellaneous feelings respecting Sicily, its
+  music, its religion, and its modern poetry.'
+title: A Jar of Honey from Mount Hybla
+url: http://www.gutenberg.org/ebooks/42644
